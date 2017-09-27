@@ -1,0 +1,12 @@
+198:112 [Data Structures] M5 credits:4 
+560:101 [Elementary Italian] M2 credits:4 
+400:105 [Facets of Food Science] H1 credits:1 
+198:111 [Introduction to Computer Science] T7 credits:4 
+560:232 [Italian Culture] M5 credits:3 
+220:301 [Money and Banking] F5 credits:3 
+965:300 [New York Theater Experience] W6 credits:3 
+105:343 [Observational Radio Astronomy] M2 credits:3 
+776:310 [Plant Propagation] H2 credits:3 
+965:315 [Playwriting] W4 credits:3 
+105:342 [Principles of Astrophysics] T5 credits:3 
+080:201 [Seminar in Contemporary Art] F4 credits:3 
